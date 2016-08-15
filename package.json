@@ -1,0 +1,24 @@
+{
+  "name": "derpdeck",
+  "version": "1.0.0",
+  "description": "search query aggregator",
+  "main": "vombot.js",
+  "dependencies": {
+    "koa": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/langel/derpdeck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langel/derpdeck/issues"
+  },
+  "homepage": "https://github.com/langel/derpdeck#readme"
+}
+
